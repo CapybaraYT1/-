@@ -1,0 +1,74 @@
+header{
+    background-image: url(img/bannercub2.jpg);
+    background-size: cover;
+    padding: 159px;
+}
+body{
+    margin: 0;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+#navig li:hover{
+    color: rgb(0, 255, 98);
+}
+main{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2vw;
+    text-align: center;
+}
+a{
+    text-decoration:none;
+    color: rgb(99, 9, 9);
+    font-weight: 700;
+}
+a:hover{
+    background-color: rgb(255, 0, 0);
+    border-radius: 6px;
+}
+li{
+    font-weight: 700;
+}
+#step1{
+    width:69%;
+}
+#pic02{
+    width:83%;
+
+}
+.A1{
+    padding-top: 30px;
+    display: flex;
+    gap: 10%;
+    text-align: center;
+    align-items: center;
+}
+.A1 img{
+    width: 120%;
+}
+.gd img{
+    width:57%;
+}
+ul{
+    list-style-type: none;
+}
+#ggs{
+    width:19%;
+}
+html{
+    scroll-behavior: smooth;
+}
+#RR{
+    width: 4%;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+#RR:hover{
+cursor: pointer;
+}
+video{
+    width: 50%;
+}
